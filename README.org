@@ -2,9 +2,8 @@
 
 Parser generator loosely based on Baker's META paper.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/gigamonkey/monkeylib-parser.git   |
-| commit  | 4327b4b  |
-| systems | monkeylib-parser |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/gigamonkey/monkeylib-parser.git |
+| commit  | 4327b4b                                                |
+| systems | com.gigamonkeys.parser                                 |
+|---------+--------------------------------------------------------|
